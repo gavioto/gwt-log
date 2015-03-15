@@ -45,4 +45,4 @@ Build artifacts are now made available from:
     * [gwt-log-1.4.0.jar](https://gwt-log.storage.googleapis.com/gwt-log-1.4.0.jar)
     * [gwt-log-1.3.1.jar](https://gwt-log.storage.googleapis.com/gwt-log-1.3.1.jar)
     * [gwt-log-1.3.jar](https://gwt-log.storage.googleapis.com/gwt-log-1.3.jar)
-  1. (Downloads prior to 3.3.1 are also available from the [old downloads page](https://code.google.com/p/gwt-log/downloads/list))
+    * [Even older downloads](https://gwt-log.storage.googleapis.com/)…
